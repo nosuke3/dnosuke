@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Front End 
 - 🌱 I’m currently learning Javascript
-- :books: Cursando Sistemas de Informação
+- :books: Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/dnosuke">
