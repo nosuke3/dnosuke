@@ -1,7 +1,7 @@
 ### Olá! eu sou o Alain 👋
 
 - 🔭 I’m currently working on Front End 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Node.js, Java
 - :books: Sistemas de Informação
 
 <div align="center">
