@@ -1,4 +1,4 @@
-### Olá! eu sou o Alain 👋
+### Hi! I'm Alain 👋
 
 - 🔭 I’m currently working on Front End 
 - 🌱 I’m currently learning Javascript, React, Typescript and Java
