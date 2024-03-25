@@ -1,7 +1,7 @@
-### Hi! I'm Alain 👋
+### Hi! I'm Clara 👋
 
 - 🔭 I’m currently working on Front End 
-- 🌱 I’m currently learning Javascript, React, Typescript and Java
+- 🌱 I’m currently learning Phyton
 - :books: Sistemas de Informação
 
 <div align="center">
