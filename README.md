@@ -1,8 +1,9 @@
 ### Hi! I'm Alain 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dnosuke&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 <div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dnosuke&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <a href="https://github.com/dnosuke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnosuke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnosuke&layout=compact&langs_count=7&theme=dracula"/>
