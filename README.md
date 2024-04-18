@@ -24,8 +24,9 @@
   <a href="https://www.linkedin.com/in/alain-delon-103766141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/dnosuke/dnosuke/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
-
+<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=dnosuke&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
  
 </div>
   
