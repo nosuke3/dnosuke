@@ -1,8 +1,6 @@
 ### Hi! I'm Alain 👋
 
-- 🔭 I’m currently working on Front End 
-- 🌱 I’m currently learning Javascript, React, Typescript and Java
-- :books: Sistemas de Informação
+[![GitHub Streak](https://streak-stats.demolab.com?user=dnosuke&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div align="center">
   <a href="https://github.com/dnosuke">
