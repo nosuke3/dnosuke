@@ -23,7 +23,7 @@
   <a href = "mailto:alaindelonm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alain-delon-103766141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/dnosuke/dnosuke/blob/output/dist/github-snake-dark.svg?palette=github-dark)
+  ![Snake animation](https://raw.githubusercontent.com/dnosuke/dnosuke/outputgithub-snake-dark.svg?palette=github-dark)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=dnosuke&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
