@@ -3,8 +3,6 @@
 
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=dnosuke&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
   <a href="https://github.com/dnosuke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnosuke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnosuke&layout=compact&langs_count=7&theme=dracula"/>
@@ -26,6 +24,8 @@
   <a href="https://www.linkedin.com/in/alain-delon-103766141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/dnosuke/dnosuke/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dnosuke&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
 </div>
   
