@@ -1,4 +1,4 @@
-### Hi! I'm Alain 👋
+### Oi! Eu sou o Alain 👋
 
 
 
@@ -16,6 +16,16 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/8MyXEVgue4ucw/giphy.gif">
+</div>
+  
+  ##
+  
+### Stacks de Testes Automatizados
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Rest Assured" height="30" width="40" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
 </div>
   
   ##
